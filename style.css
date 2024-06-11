@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    text-align: right;
+
+}
+h2{
+    color: black;
+    text-align: center;
+    margin-top: 300pt;
+}
+
+
+body{
+    background-image: url(https://media.istockphoto.com/id/1244482898/photo/ai-concept-deep-learning-gui.webp?b=1&s=170667a&w=0&k=20&c=r-Ni8JodSq0QcmfgV-DgREEZUIYziXMVptuT621FpzI=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    font-size: larger;
+    color:red;
+    font-style: italic;
+    text-align: center;
+}

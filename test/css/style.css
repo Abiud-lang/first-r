@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    margin-top: 200pt;
+    color: black;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1221475943/photo/green-power.webp?b=1&s=170667a&w=0&k=20&c=N4Obxqc-637GXxQItBC0j9PgctKHVeaGgAfa_7pwZi4=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    text-align: center;
+    color: red;
+    
+}
